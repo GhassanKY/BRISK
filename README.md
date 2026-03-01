@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # BRISK
 A lightning-fast, native macOS app cleaner and leftover scanner. Free up gigabytes of space effortlessly.
 =======
@@ -64,4 +63,3 @@ If you love Brisk and it successfully cleaned your Mac, **please consider donati
 
 ---
 *Copyright © 2026 Ghassan El Khoury. Todos los derechos reservados.*
->>>>>>> 6bb055a (docs: actualizar EULA con la versión detallada en español solicitada por el autor)
