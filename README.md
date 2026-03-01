@@ -59,7 +59,7 @@ If you love Brisk and it successfully cleaned your Mac, **please consider donati
 3. **Propiedad Intelectual:** El código fuente, diseño y arquitectura de Brisk son propiedad exclusiva del desarrollador. Queda prohibida la descompilación, ingeniería inversa o cualquier intento de descubrir el código fuente.
 4. **Exclusión de Garantía (As-Is):** Brisk se entrega "tal cual", sin garantías de ningún tipo, expresas o implícitas. El desarrollador no garantiza que el software cumpla con sus requisitos o que su funcionamiento sea ininterrumpido.
 5. **Limitación de Responsabilidad:** En ningún caso el desarrollador será responsable de cualquier daño (incluyendo, pero no limitado a, pérdida de datos o fallos del sistema) derivado del uso o la imposibilidad de uso de este software.
-6. **Licencias Comerciales:** Existen licencias disponibles para empresas interesadas en el código fuente o en un modelo de marca blanca. Para consultas, contacte directamente a: `elkhouryghassan712@gmail.com`.
+6. **Licencias Comerciales:** Existen licencias disponibles para empresas interesadas en el código fuente o en un modelo de marca blanca. Para consultas, contacte directamente a: `ghassanelkhourydev@outlook.com`.
 
 ---
 *Copyright © 2026 Ghassan El Khoury. Todos los derechos reservados.*
