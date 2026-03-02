@@ -29,7 +29,7 @@ Brisk is built following modern macOS engineering standards to ensure stability 
 
 ## 🚀 How to Install
 
-1. Download the latest version of Brisk from the **[Releases page](#)**. *(Link to be updated when released)*
+1. Download the latest version of Brisk from the **[Releases page](https://github.com/GhassanKY/BRISK/releases/tag/v1.0.0)**. *(Link to be updated when released)*
 2. Open the downloaded `.dmg` file.
 3. Drag the **Brisk** app icon into your **Applications** folder.
 4. Open your Applications folder and double-click Brisk to launch it!
