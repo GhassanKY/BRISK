@@ -2,7 +2,7 @@
 ### A lightning-fast, native macOS app cleaner and leftover scanner. Free up gigabytes of space effortlessly.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" width="80" alt="Brisk Logo">
+  <img src="https://raw.githubusercontent.com/GhassanKY/BRISK/main/logo.png" width="80" alt="Brisk Logo">
   <h1>Brisk</h1>
   <p><strong>Keep your Mac clean and fast. Free up gigabytes of space effortlessly.</strong></p>
 </div>
